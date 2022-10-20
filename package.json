@@ -1,0 +1,17 @@
+{
+  "name": "lee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "ramda": "^0.28.0",
+    "ramda-adjunct": "^3.3.0",
+    "rxjs": "^7.5.7"
+  }
+}
